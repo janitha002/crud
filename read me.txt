@@ -1,0 +1,2 @@
+Database name - employee
+Table name - employee
